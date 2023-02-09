@@ -1,0 +1,7 @@
+One of the key problems that students face is deciding what jobs to apply to given the limited time they have during their university.
+This model optimizes the number of jobs, and the exact jobs to apply to given a time constraint. 
+
+My team and I have come up with a template that works for us, however, every parameter can be changed. 
+
+Currently using the model is a manual process, which is a limitation, which is why we are working on an automated webscraping python script that would present the user simply with
+a list of 10-15 jobs
